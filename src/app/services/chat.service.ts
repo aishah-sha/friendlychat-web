@@ -238,3 +238,4 @@ saveMessagingDeviceToken= async () => {
     console.error('Unable to get messaging token.', error);
   };
 }
+}
